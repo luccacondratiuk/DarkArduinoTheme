@@ -15,7 +15,7 @@ status.error.fgcolor = #FFFFFF
 status.error.bgcolor = #ED254E
 status.edit.fgcolor = #FFFFFF
 status.edit.bgcolor = #F1B500
-status.font = SansSerif,plain,12
+status.font = Raleway,plain,12
 
 # GUI - TABS
 # settings for the tabs at the top
@@ -23,10 +23,10 @@ status.font = SansSerif,plain,12
 header.bgcolor = #404040
 header.text.selected.color = #323232
 header.text.unselected.color = #3C3C3C
-header.text.font = SansSerif,plain,12
+header.text.font = Raleway,plain,12
 
 # GUI - CONSOLE
-console.font = Monospaced,plain,11
+console.font = Rubik,plain,12
 console.font.macosx = Monaco,plain,10
 console.color = #000000
 console.output.color = #eeeeee
@@ -34,7 +34,7 @@ console.error.color = #ED254E
 
 # GUI - BUTTONS
 buttons.bgcolor = #505050
-buttons.status.font = SansSerif,plain,12
+buttons.status.font = Raleway,plain,12
 buttons.status.color = #ffffff
 
 # GUI - LINESTATUS
@@ -59,7 +59,7 @@ editor.caret.color = #a0a0a0
 editor.external.bgcolor = #202020
 
 # selection color
-editor.selection.color = #dd8800
+editor.selection.color = #4B4B4B
 
 # area that's not in use by the text (replaced with tildes)
 editor.invalid.style = #7e7e7e,bold
@@ -70,18 +70,18 @@ editor.eolmarkers.color = #999999
 
 # bracket/brace highlighting
 editor.brackethighlight = true
-editor.brackethighlight.color = #006699
+editor.brackethighlight.color = #dcdfe4
 
 
 # TEXT - KEYWORDS
 
 # FUNCTIONS
-editor.keyword1.style = #d35400,bold
-editor.data_type.style = #d35400,bold
+editor.keyword1.style = #d0055ff,bold
+editor.data_type.style = #0055ff,bold
 
 # METHODS
-editor.keyword2.style = #D35400,plain
-editor.function.style = #d35400,plain
+editor.keyword2.style = #c74ded,plain
+editor.function.style = #c74ded,plain
 
 # STRUCTURES
 editor.keyword3.style = #4ABF54,plain
@@ -91,15 +91,15 @@ editor.reserved_word.style = #4ABF54,plain
 # TEXT - LITERALS
 
 # constants & datatypes
-editor.literal1.style = #006699,plain
+editor.literal1.style = #5E268D,plain
 
 # p5 built in variables: e.g. mouseX, width, pixels
 editor.literal2.style = #1976D2,plain
-editor.variable.style = #1976D2,plain
+editor.variable.style = CFCFCF,plain
 editor.reserved_word_2.style = #1976D2,plain
-editor.literal_boolean.style = #1976D2,plain
-editor.literal_char.style = #1976D2,plain
-editor.literal_string_double_quote.style = #1976D2,plain
+editor.literal_boolean.style = #ED254E,plain
+editor.literal_char.style = #D29419,plain
+editor.literal_string_double_quote.style = #D29419,plain
 editor.preprocessor.style = #4ABF54,plain
 
 # http://www.arduino.cc/ - GET RID OF UNDERLINE!
@@ -120,7 +120,7 @@ editor.comment2.style = #aaaaaa,plain
 
 
 # LINE STATUS - editor line number status bar at the bottom of the screen
-linestatus.font	   = SansSerif,plain,10
+linestatus.font	   = Raleway,plain,10
 linestatus.height  = 20
 
 # GUI - PLOTTING
