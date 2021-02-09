@@ -1,9 +1,9 @@
 #FUNCTIONS COLOR 			#D35400 - ORANGE			KEYWORD1
 #FUNCTIONS COLOR			#D35400 - ORANGE			KEYWORD2
-#STRUCTURE COLORS 			#5E6D03 - GREEN				KEYWORD3
-#VARIABLES COLOR 			#00979C - BLUE				LITERAL1
+#STRUCTURE COLORS 			#4ABF54 - GREEN				KEYWORD3
+#VARIABLES COLOR 			#1976D2 - BLUE				LITERAL1
 
-#ERROR COLOR				#A61717 - RED
+#ERROR COLOR				#E34C00 - RED
 #COMMENTS // COLOR			#95A5A6 - LIGHT GREY
 #COMMENTS /**/ COLOR		#434F54	- DARK GREY
 
@@ -12,7 +12,7 @@
 status.notice.fgcolor = #FFFFFF
 status.notice.bgcolor = #404040
 status.error.fgcolor = #FFFFFF
-status.error.bgcolor = #E34C00
+status.error.bgcolor = #ED254E
 status.edit.fgcolor = #FFFFFF
 status.edit.bgcolor = #F1B500
 status.font = SansSerif,plain,12
@@ -30,7 +30,7 @@ console.font = Monospaced,plain,11
 console.font.macosx = Monaco,plain,10
 console.color = #000000
 console.output.color = #eeeeee
-console.error.color = #E34C00
+console.error.color = #ED254E
 
 # GUI - BUTTONS
 buttons.bgcolor = #505050
@@ -84,8 +84,8 @@ editor.keyword2.style = #D35400,plain
 editor.function.style = #d35400,plain
 
 # STRUCTURES
-editor.keyword3.style = #5E6D03,plain
-editor.reserved_word.style = #5E6D03,plain
+editor.keyword3.style = #4ABF54,plain
+editor.reserved_word.style = #4ABF54,plain
 
 
 # TEXT - LITERALS
@@ -94,13 +94,13 @@ editor.reserved_word.style = #5E6D03,plain
 editor.literal1.style = #006699,plain
 
 # p5 built in variables: e.g. mouseX, width, pixels
-editor.literal2.style = #00979C,plain
-editor.variable.style = #00979C,plain
-editor.reserved_word_2.style = #00979C,plain
-editor.literal_boolean.style = #00979C,plain
-editor.literal_char.style = #00979C,plain
-editor.literal_string_double_quote.style = #00979C,plain
-editor.preprocessor.style = #5E6D03,plain
+editor.literal2.style = #1976D2,plain
+editor.variable.style = #1976D2,plain
+editor.reserved_word_2.style = #1976D2,plain
+editor.literal_boolean.style = #1976D2,plain
+editor.literal_char.style = #1976D2,plain
+editor.literal_string_double_quote.style = #1976D2,plain
+editor.preprocessor.style = #4ABF54,plain
 
 # http://www.arduino.cc/ - GET RID OF UNDERLINE!
 editor.url.style = #81A421,plain
