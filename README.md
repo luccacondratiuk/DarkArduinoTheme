@@ -2,7 +2,7 @@
 \- \- \-
 <br>
 <center>
-![screenshot](./lib/splash.png)
+![splash](./lib/splash.png)
 
 # ArchDark Arduino Theme
 Based on the work of [jeffThompson](https://github.com/jeffThompson/DarkArduinoTheme)
