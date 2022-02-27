@@ -1,4 +1,8 @@
 ![screenshot](./screenshot.png)
+\- \- \-
+<br>
+<center>
+![screenshot](./lib/splash.png)
 
 # ArchDark Arduino Theme
 Based on the work of [jeffThompson](https://github.com/jeffThompson/DarkArduinoTheme)
@@ -17,9 +21,9 @@ Based on the work of [jeffThompson](https://github.com/jeffThompson/DarkArduinoT
 
 ### INSTALLATION  
 * Install the fonts listed above
-* Mac users should look in `/Applications/Arduino.app/Contents/Java/lib` and replace the `theme` folder inside (making a copy of the original in case want to revert back).  
-* Windows is located in `C:\Program Files (x86)\Arduino\lib`.  
-* Linux will be in `/usr/share/arduino/lib/` – note you may need to install the Arduino IDE from the Arduino site, not a place like Ubuntu Software  
+* Mac users should look in `/Applications/Arduino.app/Contents/Java` and paste the `lib` folder inside (making a copy of the original in case want to revert back).  
+* Windows is located in `C:\Program Files (x86)\Arduino`.  
+* Linux will be in `/usr/share/arduino` – note you may need to install the Arduino IDE from the Arduino site, not a place like Ubuntu Software  
 
 
 \- \- \-
