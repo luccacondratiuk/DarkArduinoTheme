@@ -1,7 +1,6 @@
 ![screenshot](./screenshot.png)
 \- \- \-
 <br>
-<center>
 ![splash](./lib/splash.png)
 
 # ArchDark Arduino Theme
